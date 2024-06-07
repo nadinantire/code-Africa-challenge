@@ -57,3 +57,11 @@ If the length is divisible by 15, reverse the string and then convert each chara
 If the length is divisible by 3, reverse the string.
 If the length is divisible by 5, convert each character to its ASCII code.
 If none of the above conditions are met, return the string as is.
+
+### how to test
+
+1. Install Node.js: Before you can run JavaScript code on your computer, you need to have Node.js installed. Node.js is a JavaScript runtime that allows you to execute JavaScript code outside of a web browser. You can download and install Node.js from the official website.
+
+2. Navigate to the Project Directory: Once Node.js is installed, you need to go to the directory (or folder) where your JavaScript project is located. You can do this using the command line interface (CLI) on your computer. The command cd stands for "change directory", and you use it to move from one directory to another.
+
+3. Execute JavaScript File: After you've navigated to the directory where your JavaScript file (arrayMap.js in this case) is located, you can run the JavaScript code using Node.js. The command node is used to execute JavaScript files. So, when you type node arrayMap.js or node stringTransform.js and press enter, Node.js will run the JavaScript code in the arrayMap.js file.
